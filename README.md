@@ -1,5 +1,5 @@
 # whistle_detect
-Detects pressure cooker whistles
+Detects and counts pressure cooker whistles
 
 Usage
 
